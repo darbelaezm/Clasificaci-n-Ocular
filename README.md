@@ -1,2 +1,2 @@
-# Clasificaci-n-Ocular
+# Clasificación Ocular
 Proyecto Final Talento Tech
